@@ -1,5 +1,5 @@
-# Galeria-responsive
-Galeria responsive, construida con CSS utilizando el sistema de maquetación Grid.
+# Galería-responsive
+Galería responsive, construida con CSS utilizando el sistema de maquetación Grid.
 
 ## Construido con 🛠️
 
@@ -8,7 +8,7 @@ Galeria responsive, construida con CSS utilizando el sistema de maquetación Gri
 
 ## Autores ✒️
 
-* **Jonathan Castellanos** - *Programación de la pagina web* - [JonaCaste](https://github.com/JonaCaste)
+* **Jonathan Castellanos** - *Programación de la página web* - [JonaCaste](https://github.com/JonaCaste)
 
 ## Licencia 📄
 
